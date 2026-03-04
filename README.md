@@ -1,4 +1,4 @@
-                                                     Breast Cancer Classification using VGG16 + Monarch Butterfly Optimization (MBO)
+                        Breast Cancer Classification using VGG16 + Monarch Butterfly Optimization (MBO)
 
 
 &nbsp;                                                                              **Project Overview**
